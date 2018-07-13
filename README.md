@@ -7,4 +7,3 @@ Primary features:
 - ip obfuscated by default VPN+TOR
 - automatic mac address changer 
 - collection cryptographic and steganographics tools
-- apk + tarball easy installer
