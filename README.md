@@ -8,5 +8,3 @@ Primary features:
 - automatic mac address changer 
 - collection cryptographic and steganographics tools
 - apk + tarball easy installer
-- 
-- 
